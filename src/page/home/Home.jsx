@@ -261,10 +261,9 @@ export default function Home() {
                     ទំនុកចិត្ត
                   </h1>
                 </div>
-                <p className="mt-4 font-normal text-gray-700 dark:text-gray-400 w-full md:w-[240px]">
-                  Sport Hub
-                  ជាវេបសាយកីឡាដ៏សម្បូរបែបដែលមានកីឡាជាច្រើនប្រភេទនឹងប្រភពត៌មានច្បាស់លាស់
-                  និងឆ្លងកាត់ការកែសម្រួលជាច្រើនលើកច្រើនសារ
+                <p className="mt-4 font-normal text-gray-700 dark:text-gray-400 w-full md:w-[250px]">
+                  Sport Hub ជាវេបសាយកីឡាដ៏សម្បូរបែបមានកីឡាច្រើនប្រភេទ
+                  ប្រភពច្បាស់លាស់ និងឆ្លងកាត់ការកែសម្រួលយ៉ាងល្អិតល្អន់
                 </p>
               </div>
               <div className="w-full md:w-1/3 bg-white p-6 rounded-lg dark:bg-gray-800">
@@ -276,10 +275,10 @@ export default function Home() {
                     បំពេញតម្រូវការ
                   </h1>
                 </div>
-                <p className="mt-4 font-normal text-gray-700 dark:text-gray-400 w-full md:w-[240px]">
-                  Sport Hub រចនារចនាឡើងដើម្បីបំពេញតម្រូវការ
-                  និងភាពងាយស្រួលរបស់អ្នកប្រើប្រាស់មិនថាផ្នែកហិរញ្ញវត្ថុ
-                  ទំនុកចិត្ត ពេលវេលា ឬពត៌មានជាក់លាក់អំពីកីឡាឡើយ
+                <p className="mt-4 font-normal text-gray-700 dark:text-gray-400 w-full md:w-[250px]">
+                  Sport Hub
+                  រចនាឡើងដើម្បីបំពេញតម្រូវការអ្នកប្រើប្រាស់មិនថាផ្នែកហិរញ្ញវត្ថុ
+                  ទំនុកចិត្ត ពេលវេលា ឬពត៌មានអំពីកីឡា
                 </p>
               </div>
               <div className="w-full md:w-1/3 bg-white p-6 rounded-lg dark:bg-gray-800">
@@ -291,9 +290,9 @@ export default function Home() {
                     ពេលវេលា
                   </h1>
                 </div>
-                <p className="mt-4 font-normal text-gray-700 dark:text-gray-400 w-full md:w-[240px]">
-                  Sport Hub ជា Website និយាយពី កីឡាដែលពេញនិយមជាងគេ ហើយ
-                  ព័ត៏មាន​​ប្រកបដោយទំនុកចិត្តសម្រាប់ អ្នកស្រោលាញ់កីឡា។
+                <p className="mt-4 font-normal text-gray-700 dark:text-gray-400 w-full md:w-[250px]">
+                  ពួកយើងគិតគូរដល់អ្នកប្រើប្រាស់ និងពេលវេលារបស់ពួកគេយ៉ាងពេញទំហឹង
+                  ដើម្បីបង្កើនភាពងាយស្រួលក្នុងការប្រើប្រាស់
                 </p>
               </div>
             </div>
