@@ -1,0 +1,59 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@import url("https://fonts.googleapis.com/css2?family=Koh+Santepheap:wght@100;300;400;700;900&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap");
+
+body {
+  font-family: "Poppins", "Koh Santepheap", sans-serif;
+}
+
+@keyframes cursor {
+  0%,
+  50%,
+  100% {
+    border: transparent;
+  }
+  25%,
+  75% {
+    border-right: 5px solid;
+  }
+}
+
+@keyframes typing {
+  0% {
+    width: 0;
+  }
+  25%,
+  35% {
+    width: 60%;
+  }
+  50% {
+    width: 0;
+  }
+  75%,
+  90% {
+    width: 100%;
+  }
+  100% {
+    width: 0;
+  }
+}
+
+.text-typing {
+  animation: typing 5s steps(18) infinite, cursor 2s steps(5) infinite;
+  white-space: nowrap;
+  overflow: hidden;
+}
+
+.p-6 {
+  padding: 0 !important;
+}
+
+.react-multiple-carousel__arrow--right {
+  right: calc(1% + 1px) !important;
+}
+.react-multiple-carousel__arrow--left {
+  left: calc(1% + 1px) !important;
+}
