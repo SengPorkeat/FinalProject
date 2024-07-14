@@ -117,8 +117,8 @@ export default function AboutUs() {
           <div className="relative z-[5] w-11/12 mx-auto">
             <UserCardComponent />
           </div>
-          <div className="text-center text-white w-[780px] mx-auto pb-14">
-            <p>
+          <div className="text-center text-white max-w-[780px] mx-auto pb-14 px-4 md:px-8">
+            <p className="text-base lg:text-lg xl:text-xl">
               ពួកយើងគឺជាស្ថាបនិកនៃ SportHub
               ហើយយើងប្រឹងប្រែងអស់ពីសមត្ថភាពដើម្បីបំពេញតម្រូវការរបស់អតិថិជនរបស់យើង
               ដើម្បីជួយសម្រួលដល់ការស្វែងរកទិន្នន័យ និងព័ត៌មានផ្សេងៗអំពីកីឡា ។
